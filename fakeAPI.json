@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Personal Website",
+        "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
+        "description": "My personal website",
+        "link": "www.google.com",
+        "authors": ["Me"],
+        "skills": ["HTML", "CSS", "JS"]
+    },
+    {
+        "name": "GPT clone",
+        "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
+        "description": "A clone of the GPT website",
+        "link": "www.google.com",
+        "authors": ["Me", "Myself", "I"],
+        "skills": ["Python", "Pytorch", "Tensorflow"]
+    },
+    {
+        "name": "Todo App",
+        "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
+        "description": "A todo app",
+        "link": "www.google.com",
+        "authors": ["Me", "Homie", "Parent"],
+        "skills": ["Kotlin", "Android", "Firebase"]
+    },
+    {
+        "name": "Tip calculator",
+        "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
+        "description": "A tip calculator",
+        "link": "www.google.com",
+        "authors": ["Me", "Barisa"],
+        "skills": ["Swift", "iOS"]
+    },
+    {
+        "name": "Pomadoro Timer",
+        "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
+        "description": "A pomadoro timer",
+        "link": "www.google.com",
+        "authors": ["Me", "Student"],
+        "skills": ["Fluter", "Dart"]
+    },
+    {
+        "name": "Book review API",
+        "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
+        "description": "A book review API",
+        "link": "www.google.com",
+        "authors": ["Me", "Student"],
+        "skills": ["Go lang", "API", "HTTP Requests"]
+    },
+    {
+        "name": "Maze generator",
+        "version": "1.0.0",
+        "picture": "https://picsum.photos/200",
+        "description": "A maze generator",
+        "link": "www.google.com",
+        "authors": ["Me"],
+        "skills": ["C++", "Algorithms"]
+    }
+]

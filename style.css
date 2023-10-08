@@ -1,0 +1,60 @@
+.project-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blueviolet;
+}
+
+.project {
+    flex-grow: 1;
+    flex-basis: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@keyframes rgb {
+    100%,0%{
+        color: rgb(255,0,0);
+    }
+    15%{
+        color: rgb(255,255,0);
+    }
+    33%{
+        color: rgb(0,255,0);
+    }
+    50%{
+        color: rgb(0,255,255);
+    }
+    66%{
+        color: rgb(0,0,255);
+    }
+    85%{
+        color: rgb(255,0,255);
+    }
+}
+
+#title:hover {
+    animation: rgb 5s infinite;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: blueviolet;
+    padding: 10px;
+}
+
+.navbar a {
+    transition: 0.5s;
+    font-size: 2rem;
+    padding: 10px;
+    margin: 0 10rem 0;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.navbar a:hover {
+    margin-top: -1rem;
+}
